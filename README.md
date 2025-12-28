@@ -1,5 +1,10 @@
-# 💫 About Me:
-I am a final year BTech student and I got placed one company, I have skilled myself in Data Analytics, Machine Learning, Basic Data Structures and streamlit based UI and frontend design.<br>I know techstacks like Python(Pandas, Matplotlib, Numpy), Sql, Power BI, Excel
+# 👋 About Me
+
+- 🎓 B.Tech student in Electronics & Communication Engineering National Institute of Technology Agartala
+- 📊 Aspiring Data Analyst / Machine Learning Engineer
+- 🧠 Strong interest in Data Analytics, Machine Learning
+- 🔍 Hands-on experience with real-world datasets and ML pipelines
+- 📈 Love turning raw data into actionable insights
 
 
 ## 🌐 Socials:
