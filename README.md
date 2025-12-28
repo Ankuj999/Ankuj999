@@ -1,6 +1,6 @@
 # 👋 About Me
 
-- 🎓 B.Tech student in Electronics & Communication Engineering National Institute of Technology Agartala
+-🎓 B.Tech student in Electronics & Communication Engineering at National Institute of Technology, Agartala
 - 📊 Aspiring Data Analyst / Machine Learning Engineer
 - 🧠 Strong interest in Data Analytics, Machine Learning
 - 🔍 Hands-on experience with real-world datasets and ML pipelines
